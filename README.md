@@ -37,12 +37,14 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
+
 ## 🎓 Acknowledgment
 
-This project is inspired by the course  
+This project was created by following along with the course:
 **[The Complete SQL Bootcamp (30 Hours): Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/)**  
 by **Baraa Khatib Salkini** on Udemy.  
-Thanks to the instructor for the clear and practical teaching approach!
+All credit goes to the instructor. I built this project as part of my learning, by watching the course videos and replicating the steps to better understand SQL and data warehousing concepts.
+
 
 ## 🌟 About Me
 
